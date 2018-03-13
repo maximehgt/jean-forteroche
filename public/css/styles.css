@@ -4,6 +4,8 @@ body {
   background-position: center;
   font-family: Georgia, Arial, Verdana, sans-serif;
   font-size: 25px;
+  background-color: #C3C5C5;
+  padding-top: 54px; 
 }
 
 .banner {
@@ -14,11 +16,6 @@ body {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
-}
-
-/*Espace pour le menu*/
-body { 
-  padding-top: 54px;   
 }
 
 .title-id {
