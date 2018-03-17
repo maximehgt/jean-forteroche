@@ -7,7 +7,7 @@
             <ul>
             <?php foreach($articles as $post): ?>
 
-                <li>
+                <li>  
                     <h2><i class="far fa-bookmark"></i> <a href="<?= htmlspecialchars($post->url); ?>"><?= htmlspecialchars($post->title); ?></a></h2>
                     <p><em><?= htmlspecialchars($post->category); ?></em></p>
                 </li>

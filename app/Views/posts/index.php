@@ -25,7 +25,7 @@
                 <p>- Jean Forteroche -</p>
               </div>
           </div>
-      </div>
+      </div>  
 <!--End présentation-->
 
 <!--Start mes romans-->

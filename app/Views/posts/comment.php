@@ -7,4 +7,4 @@
 	    <a class="btn btn-warning back-btn" href="?p=admin.comments.index"><i class="fas fa-cog"></i> Administration</a>
 	<?php endif; ?>
 </div>
-<!--End comment-->
+<!--End comment-->  
