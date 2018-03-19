@@ -6,5 +6,5 @@
 	<?php if (isset($_SESSION['auth'])): ?>
 	    <a class="btn btn-warning back-btn" href="?p=admin.comments.index"><i class="fas fa-cog"></i> Administration</a>
 	<?php endif; ?>
-</div>
+</div> 
 <!--End comment-->  

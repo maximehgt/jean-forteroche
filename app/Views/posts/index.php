@@ -6,7 +6,7 @@
             </div>
         </div>
     </div>
-</header>
+</header> 
 <!-- End banner -->
 
 <!--Start présentation-->
